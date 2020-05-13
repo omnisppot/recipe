@@ -3,3 +3,4 @@
 * squeeze lime
 * add salt
 * and mix well
+* throw in bin
